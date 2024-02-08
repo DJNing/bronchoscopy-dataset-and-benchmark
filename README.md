@@ -8,7 +8,11 @@ Please check this [file](./README_pyslam.md) for more detail instructions.
 ---
 ## Bronchoscopy dataset
 
-Here's the link to download our dataset: [link](about:blank)
+**Importatn**
+
+Future updates will be available in this [repo](https://github.com/SIRGLab/bronchoscopy-dataset-and-benchmark.git)
+
+~~Here's the link to download our dataset: [link](about:blank)~~
 
 
 ---
